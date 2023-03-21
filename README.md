@@ -15,7 +15,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Math Magicians\] ](#-Math Magicians-)
+- [📖 \[Covid 19 Statistics\] ](#-Covid-19-Statistics-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -36,10 +36,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magician] <a name="about-project"></a>
+# 📖 [Covid 19 Statistics] <a name="about-project"></a>
 
 
-**[Math Magician]** is a Single Page JavaScript project, using React and ES6 features, and modules that let users do simple calculations.
+**[Covid 19 Statistics]** is a Single Page JavaScript project, using React and ES6 features, and modules..
 
 ## 🛠 Built With <a name="built-with"></a>
 
